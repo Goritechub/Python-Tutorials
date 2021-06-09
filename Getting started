@@ -1,1 +1,30 @@
+>>>(Downloading and Installing Python v3.8.9):
+1- Open any browser on your pc or laptop.
+2- On your search engine type python or visit www.python.org.
+3- While in the python official website(www.python.org) click on dowloads.
+4- Scroll down and click download for python3.8.9.
+5- On the next download page scroll down and select a preferred download for Windows or Mac, Download would start automatically.
+6- After download is complete, open file manager and navigate to your Downloads folder.
+7- Double click on python-3.8.9-amd-64 (this is for 64bit installation), installation wizard should start the installation automatically.
+
+>>>(Downloading and installing VSCode):
+1- Open any browser on your pc or laptop.
+2- On your search engine type virtual studio code.
+3- Click the fist download link on search results to be directed to vscode official website.
+4- Click download for Windows or MAC. Download Starts automatically.
+5- After download complete, open file manager and navigate to your Downloads folder.
+6- Double Click on VSCodeUserSetup-x64-1.56.2, installation wizard should start the installation automatically.
+7- Accept terms and conditions and click next.
+8- Check all the check boxes and click next.
+9- Click next and install. Installation complete.
+
+>>>(Setup python in VsCode):
+1- Open vscode application.
+2- On the L.H.S of your screen click on extension and search python.
+3- Install and enable python extension. 
+4- Press and Hold Ctr N button on your keyboard to open a new file.
+5- Save file as anyname.py (never forget to add the .py)
+6- Open saved file with Vscode and type Print("helloword")
+7- Press and Hold Ctr S to save code, then press Ctr F5 to run code.
+8- Output should display helloword at the buttom. 
 

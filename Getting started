@@ -20,7 +20,7 @@
 
 >>>(Setup python in VsCode):
 1- Open vscode application.
-2- On the L.H.S of your screen click on extension and search python.
+2- On the L.H.S of your screen click on extensions and search python.
 3- Install and enable python extension. 
 4- Press and Hold Ctr N button on your keyboard to open a new file.
 5- Save file as anyname.py (never forget to add the .py)

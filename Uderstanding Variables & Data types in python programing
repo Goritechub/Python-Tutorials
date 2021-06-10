@@ -1,0 +1,48 @@
+print("helloword")
+
+firstname = "Ebube"
+dt_birth = 2021
+print(firstname)
+print(firstname.upper())
+print(firstname.lower())
+print(firstname.title())
+
+firstname = "Ebube"
+secondname = "clinton"
+print("my name is",fisrtname,"my second name is", secondname)
+
+secondname = "clinton "
+print(secondname.strip(),"fff")
+
+print("ebube","\nclinton")
+print("ebube","\tclinton")
+print("ebube","\n\tclinton")
+
+2+2
+2-2
+6*6
+6/3
+3**2
+10**6
+2+3*4**6
+#(BODMAS = Bracket,Of,Division,Multiplication,Addition,Subtraction)
+(3+6)*7 
+
+
+x = 4
+y = 6
+print(x=y)
+
+x = 4+6
+print(x)
+print(float(X))
+
+x = 4+6.0
+print(X)
+print(int(X))
+
+x = 45
+name = "Ebube"
+print(str(x)+name)
+
+#coments coments coments
